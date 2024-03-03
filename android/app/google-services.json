@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335465600992",
+    "project_id": "emotions-flashcards-for-kids",
+    "storage_bucket": "emotions-flashcards-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335465600992:android:a4d21b95969cbd26473d85",
+        "android_client_info": {
+          "package_name": "com.darshankomu.feelings_flashcards_for_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIL4JWd37O-7QILHh9MNsJQwZ_hA6x7_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
